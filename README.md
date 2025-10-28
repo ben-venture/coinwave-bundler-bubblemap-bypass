@@ -13,8 +13,6 @@ https://solscan.io/tx/3GD9uBp8SEixd1o2oHVuJmDDCDgzVnoTazZ5LgdiJKU35jtr2qv6hY8krN
 - 4 axiom Buy
 https://solscan.io/tx/5vw3xbKgbm6ac6HYT9oLCeZfaJRvjPxtM87i6QZ9XWxFGEa92U6JhqR97X42dX6H9FjWme9K5q6hX4TVwEo9v8rr
 
-- 2 Axiom Buy
-https://solscan.io/tx/3GD9uBp8SEixd1o2oHVuJmDDCDgzVnoTazZ5LgdiJKU35jtr2qv6hY8krNDdYQDjVqNGSKpj3M7MPBPHHKsa82Xq
 
 ### Bypass bubblemap
 - Axiom
